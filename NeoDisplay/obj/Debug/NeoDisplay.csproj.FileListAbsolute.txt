@@ -1,0 +1,48 @@
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\bin\Debug\NeoDisplay.exe.config
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\bin\Debug\NeoDisplay.exe
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\bin\Debug\NeoDisplay.pdb
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\bin\Debug\Interop.WMPLib.dll
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\bin\Debug\AxInterop.WMPLib.dll
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.csprojResolveAssemblyReference.cache
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\Interop.WMPLib.dll
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\AxInterop.WMPLib.dll
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.csproj.ResolveComReference.cache
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.Form1.resources
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.Properties.Resources.resources
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.csproj.GenerateResource.Cache
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.exe
+c:\users\trinitisoft-sv\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.pdb
+C:\Users\TrinitiSoft-SV\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\TrinitiSoft-SV\documents\visual studio 2015\Projects\NeoDisplay\NeoDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\bin\Debug\NeoDisplay.exe.config
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\Interop.WMPLib.dll
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.csproj.ResolveComReference.cache
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.exe
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.pdb
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\bin\Debug\NeoDisplay.exe
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\bin\Debug\NeoDisplay.pdb
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\bin\Debug\Interop.WMPLib.dll
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.csprojResolveAssemblyReference.cache
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.Form1.resources
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.Properties.Resources.resources
+C:\Users\TrinitiSoft-SV\Documents\OFFICE\Projects\NeoDisplay\NeoDisplay\obj\Debug\NeoDisplay.csproj.GenerateResource.Cache
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\bin\Debug\NeoDisplay.exe.config
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\Interop.WMPLib.dll
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\NeoDisplay.csproj.ResolveComReference.cache
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\NeoDisplay.exe
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\NeoDisplay.pdb
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\bin\Debug\NeoDisplay.exe
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\bin\Debug\NeoDisplay.pdb
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\bin\Debug\Interop.WMPLib.dll
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\NeoDisplay.csprojResolveAssemblyReference.cache
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\NeoDisplay.Form1.resources
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\NeoDisplay.Properties.Resources.resources
+C:\Users\001\Documents\TriStam\neo c#\NeoDisplay\obj\Debug\NeoDisplay.csproj.GenerateResource.Cache

@@ -1,0 +1,138 @@
+{
+  "info": {
+    "product": "InterScreen",
+    "version": "0.1",
+    "securitycode": ""
+  },
+  "Customer": {
+    "Name": "Иван Иванов Иванов",
+    "Code": "1000",
+    "Picture": ""
+  },
+  "ReceiptAdv1": "images/ads2.jpg",
+  "ReceiptAdv2": "images/ads3.jpg",
+  "ReceiptVideo": "video/video.mp4",
+  "ReceiptTotal": "9.99",
+  "Currency": "BGN",
+  "CurrencySymbol": "лв.",
+  "Receipt": [
+	{
+      "Qnt": "9",
+      "Item": "Чай",
+      "Price": "2.50",
+      "Discount": "0.00",
+      "LineTotal": "2.00",
+      "Comment": "",
+      "Type": "Item"
+    },
+    {
+      "Qnt": "3",
+      "Item": "L carnitine",
+      "Price": "2.50",
+      "Discount": "0.00",
+      "LineTotal": "3.50",
+      "Comment": "",
+      "Type": "Item"
+    },
+    {
+      "Qnt": "1",
+      "Item": "Пилатес",
+      "Price": "1.00",
+      "Discount": "0.00",
+      "LineTotal": "1.00",
+      "Comment": "3/10 остават",
+      "Type": "Packet"
+    },
+	{
+      "Qnt": "1",
+      "Item": "Кафе",
+      "Price": "1.00",
+      "Discount": "0.00",
+      "LineTotal": "1.00",
+      "Comment": "",
+      "Type": ""
+    },
+	{
+      "Qnt": "3",
+      "Item": "L carnitine",
+      "Price": "2.50",
+      "Discount": "0.00",
+      "LineTotal": "3.50",
+      "Comment": "",
+      "Type": "Item"
+    },
+    {
+      "Qnt": "1",
+      "Item": "Пилатес",
+      "Price": "1.00",
+      "Discount": "0.00",
+      "LineTotal": "1.00",
+      "Comment": "3/10 остават",
+      "Type": "Packet"
+    },
+	{
+      "Qnt": "1",
+      "Item": "Кафе",
+      "Price": "1.00",
+      "Discount": "0.00",
+      "LineTotal": "1.00",
+      "Comment": "",
+      "Type": ""
+    },
+	{
+      "Qnt": "9",
+      "Item": "Чай",
+      "Price": "2.50",
+      "Discount": "0.00",
+      "LineTotal": "2.00",
+      "Comment": "",
+      "Type": "Item"
+    },
+    {
+      "Qnt": "3",
+      "Item": "L carnitine",
+      "Price": "2.50",
+      "Discount": "0.00",
+      "LineTotal": "3.50",
+      "Comment": "",
+      "Type": "Item"
+    }
+  ],
+  "Package": [
+    {
+      "Item": "Пилатес",
+      "Total": "10",
+      "Used": "7",
+      "Left": "3",
+      "ValidTill": "31.12.2015"
+    },
+    {
+      "Item": "Фитнес",
+      "Total": "10",
+      "Used": "4",
+      "Left": "6",
+      "ValidTill": "01.11.2015"
+    },
+    {
+      "Item": "Бокс",
+      "Total": "5",
+      "Used": "0",
+      "Left": "5",
+      "ValidTill": "31.02.2015"
+    },
+	{
+      "Item": "Пилатес",
+      "Total": "10",
+      "Used": "7",
+      "Left": "3",
+      "ValidTill": "31.12.2015"
+    },
+    {
+      "Item": "Фитнес",
+      "Total": "10",
+      "Used": "4",
+      "Left": "6",
+      "ValidTill": "01.11.2015"
+    }
+  ]
+}
